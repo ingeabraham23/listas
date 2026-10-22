@@ -1,0 +1,10 @@
+.aplicacion {
+  min-height: 100vh;
+}
+
+.contenido-app {
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 18px 14px 32px;
+}
